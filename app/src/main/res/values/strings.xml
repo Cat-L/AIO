@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AIO</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="changeButton">ChangePic</string>
+    <string name="dialog">dialog</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".jump_pic">
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:src="@drawable/pic1"
+        />
+
+    <Button
+        android:id="@+id/changeButton"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="@string/changeButton"
+        />
+    <Button
+        android:id="@+id/dialog1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dialog"
+        />
+</LinearLayout>
