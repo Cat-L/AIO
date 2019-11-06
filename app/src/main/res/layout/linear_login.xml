@@ -7,7 +7,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:gravity="center_vertical"
-        android:text="@string/login_username"
+        android:text="admin"
         android:textSize="18sp" />
     <EditText
         android:id="@+id/textView_password"
@@ -16,7 +16,7 @@
         android:gravity="center_vertical"
         android:inputType="textPassword"
         android:singleLine="true"
-        android:text="@string/login_password"
+        android:text="admin"
         android:textSize="18sp" />
 
     <Button

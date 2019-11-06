@@ -41,7 +41,7 @@ public class Login extends AppCompatActivity implements View.OnClickListener {
                 String username=usernameText.getText().toString();
                 String password=passwordText.getText().toString();
                 if (findUser(username,password)){
-                    Intent intent=new Intent(Login.this,jump_pic.class);
+                    Intent intent=new Intent(Login.this,function_select.class);
                     startActivity(intent);
                 }
                 else{

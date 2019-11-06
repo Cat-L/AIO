@@ -4,19 +4,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".jump_pic">
-
-    <ImageView
-        android:id="@+id/imageView1"
-        android:layout_height="wrap_content"
-        android:layout_width="wrap_content"
-        android:src="@drawable/pic1"
-        />
+    tools:context=".Dialog"
+    android:orientation="vertical">
 
     <Button
-        android:id="@+id/changeButton"
+        android:id="@+id/Dialog1"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_width="wrap_content"
-        android:text="@string/changeButton"
+        android:textAllCaps="false"
+        android:text="@string/dialog"
         />
+
 </LinearLayout>

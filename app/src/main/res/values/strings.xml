@@ -4,4 +4,7 @@
     <string name="login_password">Password</string>
     <string name="changeButton">ChangePic</string>
     <string name="dialog">dialog</string>
+    <string name="functionselect_jumpic">Jump Pic</string>
+    <string name="functionselect_dialog">Dialog</string>
+    <string name="functionselect_calculator">Calculator</string>
 </resources>
